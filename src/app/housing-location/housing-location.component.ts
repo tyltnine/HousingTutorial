@@ -6,7 +6,7 @@ import {HousingLocation} from '../housinglocation';
   selector: 'app-housing-location',
   imports: [CommonModule],
   templateUrl: 'housing-location.html',
-  styles: ''
+  styleUrls: ['./housing-location.css']
 })
 
 export class HousingLocationComponent {
